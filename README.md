@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development using Python
 - 🌱 I’m currently learning Python, Django
 - 💞️ I’m looking to collaborate on interestig projects
-- 📫 How to reach me harmjan.willemsen@gmail.com
+- 📫 How to reach me hwillemsen@zonnet.nl
 
 <!---
 HWillemsen/HWillemsen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
