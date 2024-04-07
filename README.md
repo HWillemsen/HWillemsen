@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HWillemsen
-- 👀 I’m interested in software development using Python
-- 🌱 I’m currently learning Python, Django
+- 👀 I’m interested in software development using COBOL and Python
+- 🌱 I’m currently learning COBOL, JCL, Python, Django
 - 💞️ I’m looking to collaborate on interestig projects
 - 📫 How to reach me hwillemsen@zonnet.nl
 
